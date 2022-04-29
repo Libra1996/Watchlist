@@ -1,1 +1,1 @@
-# Anime-Watchlist
+# Watchlist
