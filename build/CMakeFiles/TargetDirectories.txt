@@ -1,7 +1,0 @@
-/home/waylon/wxtut/wx_listctrl_tutorial-main/build/CMakeFiles/rebuild_cache.dir
-/home/waylon/wxtut/wx_listctrl_tutorial-main/build/CMakeFiles/edit_cache.dir
-/home/waylon/wxtut/wx_listctrl_tutorial-main/build/CMakeFiles/wx_listctrl_tutorial_core.dir
-/home/waylon/wxtut/wx_listctrl_tutorial-main/build/thirdparty/CMakeFiles/rebuild_cache.dir
-/home/waylon/wxtut/wx_listctrl_tutorial-main/build/thirdparty/CMakeFiles/edit_cache.dir
-/home/waylon/wxtut/wx_listctrl_tutorial-main/build/thirdparty/wxwidgets/CMakeFiles/rebuild_cache.dir
-/home/waylon/wxtut/wx_listctrl_tutorial-main/build/thirdparty/wxwidgets/CMakeFiles/edit_cache.dir

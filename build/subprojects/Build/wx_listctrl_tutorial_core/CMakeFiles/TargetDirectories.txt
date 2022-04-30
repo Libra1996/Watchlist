@@ -1,3 +1,0 @@
-/home/waylon/wxtut/wx_listctrl_tutorial-main/build/subprojects/Build/wx_listctrl_tutorial_core/CMakeFiles/rebuild_cache.dir
-/home/waylon/wxtut/wx_listctrl_tutorial-main/build/subprojects/Build/wx_listctrl_tutorial_core/CMakeFiles/edit_cache.dir
-/home/waylon/wxtut/wx_listctrl_tutorial-main/build/subprojects/Build/wx_listctrl_tutorial_core/CMakeFiles/main.dir
