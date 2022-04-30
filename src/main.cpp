@@ -19,6 +19,25 @@
 #define CSV_DIR "."
 #endif
 
+// #include "watchlistfactory.h"
+// #include <string>
+
+// EntryData* Watchlistfactory::list_type = 0;
+
+// int main() {
+//     string input;
+//     cout << "What to create: ";
+//     cin >> input;
+
+//     Watchlistfactory::watchlist_type(input);
+//     EntryData* object;
+
+//     object = Watchlistfactory::get_list_type();
+//     cout << object->get_name() << " & " << object->get_genre() << endl;
+
+//     return 0;
+// }
+
 class MyApp : public wxApp
 {
 public:
