@@ -8,6 +8,7 @@
 #include <algorithm>
 
 #include "itemdata.h"
+#include "simplevirtuallistcontrol.h"
 
 class SimpleVirtualListControl : public wxListCtrl
 {
