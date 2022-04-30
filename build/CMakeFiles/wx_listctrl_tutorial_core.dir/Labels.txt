@@ -1,0 +1,13 @@
+# Target labels
+ wx_listctrl_tutorial_core
+# Source files and their labels
+/home/waylon/wxtut/wx_listctrl_tutorial-main/build/CMakeFiles/wx_listctrl_tutorial_core
+/home/waylon/wxtut/wx_listctrl_tutorial-main/build/CMakeFiles/wx_listctrl_tutorial_core.rule
+/home/waylon/wxtut/wx_listctrl_tutorial-main/build/CMakeFiles/wx_listctrl_tutorial_core-complete.rule
+/home/waylon/wxtut/wx_listctrl_tutorial-main/build/subprojects/Stamp/wx_listctrl_tutorial_core/wx_listctrl_tutorial_core-install.rule
+/home/waylon/wxtut/wx_listctrl_tutorial-main/build/subprojects/Stamp/wx_listctrl_tutorial_core/wx_listctrl_tutorial_core-mkdir.rule
+/home/waylon/wxtut/wx_listctrl_tutorial-main/build/subprojects/Stamp/wx_listctrl_tutorial_core/wx_listctrl_tutorial_core-download.rule
+/home/waylon/wxtut/wx_listctrl_tutorial-main/build/subprojects/Stamp/wx_listctrl_tutorial_core/wx_listctrl_tutorial_core-update.rule
+/home/waylon/wxtut/wx_listctrl_tutorial-main/build/subprojects/Stamp/wx_listctrl_tutorial_core/wx_listctrl_tutorial_core-patch.rule
+/home/waylon/wxtut/wx_listctrl_tutorial-main/build/subprojects/Stamp/wx_listctrl_tutorial_core/wx_listctrl_tutorial_core-configure.rule
+/home/waylon/wxtut/wx_listctrl_tutorial-main/build/subprojects/Stamp/wx_listctrl_tutorial_core/wx_listctrl_tutorial_core-build.rule

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/waylon/wxtut/wx_listctrl_tutorial-main/build/CMakeFiles/wx_listctrl_tutorial_core"
+		},
+		{
+			"file" : "/home/waylon/wxtut/wx_listctrl_tutorial-main/build/CMakeFiles/wx_listctrl_tutorial_core.rule"
+		},
+		{
+			"file" : "/home/waylon/wxtut/wx_listctrl_tutorial-main/build/CMakeFiles/wx_listctrl_tutorial_core-complete.rule"
+		},
+		{
+			"file" : "/home/waylon/wxtut/wx_listctrl_tutorial-main/build/subprojects/Stamp/wx_listctrl_tutorial_core/wx_listctrl_tutorial_core-install.rule"
+		},
+		{
+			"file" : "/home/waylon/wxtut/wx_listctrl_tutorial-main/build/subprojects/Stamp/wx_listctrl_tutorial_core/wx_listctrl_tutorial_core-mkdir.rule"
+		},
+		{
+			"file" : "/home/waylon/wxtut/wx_listctrl_tutorial-main/build/subprojects/Stamp/wx_listctrl_tutorial_core/wx_listctrl_tutorial_core-download.rule"
+		},
+		{
+			"file" : "/home/waylon/wxtut/wx_listctrl_tutorial-main/build/subprojects/Stamp/wx_listctrl_tutorial_core/wx_listctrl_tutorial_core-update.rule"
+		},
+		{
+			"file" : "/home/waylon/wxtut/wx_listctrl_tutorial-main/build/subprojects/Stamp/wx_listctrl_tutorial_core/wx_listctrl_tutorial_core-patch.rule"
+		},
+		{
+			"file" : "/home/waylon/wxtut/wx_listctrl_tutorial-main/build/subprojects/Stamp/wx_listctrl_tutorial_core/wx_listctrl_tutorial_core-configure.rule"
+		},
+		{
+			"file" : "/home/waylon/wxtut/wx_listctrl_tutorial-main/build/subprojects/Stamp/wx_listctrl_tutorial_core/wx_listctrl_tutorial_core-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"wx_listctrl_tutorial_core"
+		],
+		"name" : "wx_listctrl_tutorial_core"
+	}
+}
